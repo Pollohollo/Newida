@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://maison-mere-projets.berguin-paul.chatgpt.site'),
+  metadataBase: new URL('https://newida-projets.berguin-paul.chatgpt.site'),
   title: 'Newida — Nos projets',
   description: 'Le hub de notre équipe : découvrez les produits, services et idées que nous construisons.',
   openGraph: {
