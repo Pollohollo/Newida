@@ -51,7 +51,7 @@ export default function Home() {
 
       <section className="hero" id="top">
         <div className="hero-glow glow-one" /><div className="hero-glow glow-two" />
-        <p className="eyebrow"><span /> Notre terrain de jeu collectif</p>
+        <p className="eyebrow"><span /> Notre terrain de jeu</p>
         <h1>Des idées qui vivent.<em> Une maison pour les réunir.</em></h1>
         <p className="hero-copy">Nous imaginons, construisons et faisons grandir des produits utiles. Newida est la porte d’entrée vers tout ce que notre équipe crée.</p>
         <a className="primary-cta" href="#projets">Découvrir nos projets <span aria-hidden="true">↓</span></a>
